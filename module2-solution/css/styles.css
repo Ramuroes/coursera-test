@@ -12,7 +12,7 @@ h1{
 }
 p {
     position: relative;
-    background-color: #c3fff3;
+    background-color: #008c93;
     border: 3px solid black;
     padding-top: 40px;
     padding-bottom: 10px;
@@ -21,7 +21,7 @@ p {
     width: 90%;
     margin-left: auto;
     margin-right: auto;
-    color: black;
+    color: white;
 }
 .box {
 	height: 35px;
